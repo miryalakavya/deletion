@@ -1,0 +1,17 @@
+Pawpals uses a facebook login app to authenticate our users. Pawpals  does not save your personal data in our server.
+
+‍
+
+According to Facebook policy, we have to provide User Data Deletion Callback URL or Data Deletion Instructions URL.
+
+‍
+
+If you want to delete your activities for Pawpals  facebook login app, you can remove your information by following these steps:
+
+Go to your Facebook Account’s “Settings & Privacy”.
+Click “Settings”
+Then click “Security and Login”.
+Look for “Apps and Websites” and you will see all of the apps and websites you have linked with your Facebook account.
+Search and Click “Pawpals ” in the search bar.
+Scroll and click “Remove”.
+‍
